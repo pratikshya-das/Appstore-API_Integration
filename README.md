@@ -47,8 +47,6 @@ appstore-api/
 
 - Install dependencies:
 
-- pip install -r requirements.txt
-
 - Add your RapidAPI credentials in .env:
 
    - RAPIDAPI_KEY=your_key_here
