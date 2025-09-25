@@ -12,7 +12,7 @@ print("Host:", HOST)
 
 url = "https://appstore-scrapper-api.p.rapidapi.com/v1/app-store-api/reviews"
 
-# Example params (App Store ID for Instagram is 364709193)
+# App Store ID for Instagram is 364709193)
 params = {
     "id": "364709193",     # App Store ID
     "sort": "mostRecent",  # sort by mostRecent or mostHelpful
