@@ -10,7 +10,6 @@ HOST = os.getenv("RAPIDAPI_HOST")
 print("API Key starts with:", API_KEY[:6])
 print("Host:", HOST)
 
-# ✅ Correct endpoint from your RapidAPI code snippet
 url = "https://appstore-scrapper-api.p.rapidapi.com/v1/app-store-api/reviews"
 
 # Example params (App Store ID for Instagram is 364709193)
